@@ -1,0 +1,5 @@
+.app {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #add8e6, #90ee90);
+  min-height: 100vh;
+}
